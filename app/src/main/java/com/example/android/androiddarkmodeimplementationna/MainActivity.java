@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.LinearLayout;
+import android.widget.Switch;
 import android.widget.Toolbar;
 
 public class MainActivity extends AppCompatActivity {
